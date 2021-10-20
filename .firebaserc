@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "devopec-f1dff"
-  }
+    "default": "devopec-f1dff",
+    "new": "opec-playground"
+  },
+  "targets": {}
 }
